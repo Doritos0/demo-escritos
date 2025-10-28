@@ -1,0 +1,4 @@
+streamlit
+docxtpl
+fpdf
+python-docx
