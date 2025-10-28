@@ -1,13 +1,13 @@
 > Instalar dependencias
-´´´bash 
+```bash 
 
     python - venv env
 
-´´´
+```
 
 > Correr aplicación
-´´´bash 
+```bash 
 
     streamlit run app.py
 
-´´´
+```
